@@ -1,4 +1,4 @@
-#Neural Network -Python
+# Neural Network -Python
 Creating a neural network with two hidden layers
 
 # Activation functions
